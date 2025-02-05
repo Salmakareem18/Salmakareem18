@@ -25,9 +25,7 @@
   <a href="salmakareem551@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="35" alt="gmail logo"  />
   </a>
-  <a href="@S_ma189" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="35" alt="telegram logo"  />
-  </a>
+
 
 
 </p>
